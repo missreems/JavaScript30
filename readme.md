@@ -21,3 +21,7 @@ I learnt many things during this challenge. I got to understand a lot more about
 ``` console.log(this.dataset)```
 
 to get an object that contains all the data attributes from a specific element, this could be super useful!
+
+---
+### Day 4: Array Cardio - Day 1
+This challenge was like a pop quiz that I wasn't expecting, but it actually went pretty well. I was able to use mostly all of the knowledge regarding array methods, which I'd learned back at General Assembly. I developed a better understanding of using the sort method. One of my favourite challenges so far! 💪🏽👍🏽
