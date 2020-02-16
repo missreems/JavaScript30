@@ -25,3 +25,11 @@ to get an object that contains all the data attributes from a specific element, 
 ---
 ### Day 4: Array Cardio - Day 1
 This challenge was like a pop quiz that I wasn't expecting, but it actually went pretty well. I was able to use mostly all of the knowledge regarding array methods, which I'd learned back at General Assembly. I developed a better understanding of using the sort method. One of my favourite challenges so far! 💪🏽👍🏽
+
+---
+### Day 5: CSS Flex Panels Gallery
+I got to learn quite a few things in this challenge, like using:
+
+```transform: translateY(0);```
+
+to get elements to begin off-screen and then to move down to it's original position. I realised small animations like this are used on websites quite often.
