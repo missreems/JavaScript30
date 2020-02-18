@@ -30,6 +30,15 @@ This challenge was like a pop quiz that I wasn't expecting, but it actually went
 ### Day 5: CSS Flex Panels Gallery
 I got to learn quite a few things in this challenge, like using:
 
-```transform: translateY(0);```
+```transform: translateY();```
 
 to get elements to begin off-screen and then to move down to it's original position. I realised small animations like this are used on websites quite often.
+
+---
+### Day 6: Ajax Type Ahead
+This challenge was similar to something I tried to achieve some time back, however I got to learn a little bit about regular expressions when the following was used:
+
+```const regex = new RegExp(this.value, 'gi')```
+
+If I got a chance in the future, I would love to try a similar piece of logic out in my projects. 🤞🏾
+
