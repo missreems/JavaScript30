@@ -42,3 +42,6 @@ This challenge was similar to something I tried to achieve some time back, howev
 
 If I got a chance in the future, I would love to try a similar piece of logic out in my projects. 🤞🏾
 
+---
+### Day 7: Array Cardio - Day 2
+Pretty good challenge! Was able to do most of it myself and used the tutorial to check my answers at the end. Great array cardio workout 👍🏽👊🏽
